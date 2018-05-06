@@ -1,2 +1,2 @@
 # blog
-this is my first commit. Practice
+this is my first commit. 
